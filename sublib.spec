@@ -1,7 +1,7 @@
 Summary: A library that eases the development of subtitling applications
 Name: sublib
 Version: 0.9
-Release: %mkrel 1
+Release: %mkrel 2
 License: GPLv2+
 Group: System/Libraries
 URL: http://sublib.sourceforge.net/
