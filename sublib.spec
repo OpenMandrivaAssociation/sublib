@@ -44,3 +44,19 @@ rm -rf %buildroot
 %files devel
 %defattr(-,root,root)
 %_libdir/pkgconfig/sublib.pc
+
+
+%changelog
+* Tue Sep 08 2009 Thierry Vignaud <tvignaud@mandriva.com> 0.9-4mdv2010.0
++ Revision: 434142
+- rebuild
+
+* Fri Aug 08 2008 Thierry Vignaud <tvignaud@mandriva.com> 0.9-3mdv2009.0
++ Revision: 269394
+- rebuild early 2009.0 package (before pixel changes)
+
+* Wed May 14 2008 Funda Wang <fundawang@mandriva.org> 0.9-2mdv2009.0
++ Revision: 206993
+- import source and spec
+- Created package structure for sublib.
+
