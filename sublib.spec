@@ -3,7 +3,7 @@
 Summary: A library that eases the development of subtitling applications
 Name:    sublib
 Version: 0.9
-Release: 5
+Release: 6
 License: GPLv2+
 Group:   System/Libraries
 URL:     http://sublib.sourceforge.net/
