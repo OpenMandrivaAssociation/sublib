@@ -6,7 +6,7 @@ Version: 0.9
 Release: 6
 License: GPLv2+
 Group:   System/Libraries
-URL:     http://sublib.sourceforge.net/
+URL:     https://sublib.sourceforge.net/
 Source0: http://downloads.sourceforge.net/sublib/%{name}-%{version}.zip
 BuildRequires: mono-devel
 
